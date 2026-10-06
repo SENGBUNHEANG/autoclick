@@ -1,4 +1,4 @@
 {
-  "is_active": false,
-  "message": "System is currently turned off by admin."
+  "is_active": true,
+  "message": "System is running normally."
 }
