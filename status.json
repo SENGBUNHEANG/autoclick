@@ -1,4 +1,4 @@
 {
-  "is_active": true,
-  "message": "ប្រព័ន្ធដំណើរការធម្មតា"
+  "is_active": false,
+  "message": "System is currently turned off by admin."
 }
